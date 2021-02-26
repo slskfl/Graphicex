@@ -1,0 +1,3 @@
+include ':miniphotoshop'
+include ':app'
+rootProject.name = "Graphices"
